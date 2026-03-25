@@ -16,7 +16,7 @@ This is my digital space where I share a bit about myself, showcase my projects,
 
 Here are some technologies and tools I work with:
 
-![My Skills](https://skillicons.dev/icons?i=cpp,c,js,react,html,css,docker,linux,git&theme=light)
+![My Skills](https://skillicons.dev/icons?i=cpp,c,js,react,html,css,git&theme=light)
 
 ## 📂 Featured Repositories
 
