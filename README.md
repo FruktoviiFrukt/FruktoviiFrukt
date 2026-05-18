@@ -6,7 +6,7 @@ This is my digital space where I share a bit about myself, showcase my projects,
 ## 🚀 About Me
 
 - 💼 I'm into **web design** and front-end development  
-- 🌱 Currently learning: **Python, C, C++**  
+- 🌱 Currently learning: **JavaScrypt, React, C, C++**  
 - 💡 Interested in: **low-level programming, UI/UX design**  
 - 📫 How to reach me:  
   - Email: **liagriscenco081105@gmail.com**  
@@ -20,9 +20,8 @@ Here are some technologies and tools I work with:
 
 ## 📂 Featured Repositories
 
-to be continued
-
-
+(https://github.com/ellgenta/FloraBack)
+(https://github.com/ellgenta/FloraFront)
 
 ## 🌐 Links
 
