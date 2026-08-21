@@ -1,32 +1,40 @@
-# Hi there! 👋 I'm Lia
+# Lia
+Frontend Developer | Computer Science Student
 
 Welcome to my personal GitHub repository!  
 This is my digital space where I share a bit about myself, showcase my projects, and link to useful resources.
 
-## 🚀 About Me
+##  About Me
 
-- 💼 I'm into **web design** and front-end development  
-- 🌱 Currently learning: **JavaScrypt, React, C, C++**  
-- 💡 Interested in: **low-level programming, UI/UX design**  
-- 📫 How to reach me:  
-  - Email: **liagriscenco081105@gmail.com**  
-  - Telegram: [@fruktovii_frukt](https://t.me/fruktovii_frukt)
+I'm into **web design** and front-end development  
+Currently learning: **JavaScrypt, React, C, C++**  
+Interested in: **low-level programming, UI/UX design**  
+ How to reach me:  
+   Email: **liagriscenco081105@gmail.com**  
+   Telegram: [@fruktovii_frukt](https://t.me/fruktovii_frukt)
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 Here are some technologies and tools I work with:
 
 ![My Skills](https://skillicons.dev/icons?i=cpp,c,js,react,html,css,git&theme=light)
 
-## 📂 Featured Repositories
+##  Featured Repositories
+Wedding Invitation
+React / CSS
+Beautiful responsive wedding invitation website
+(https://github.com/FruktoviiFrukt/wedding)
 
+Plant Store — Full-Stack Web Application
+React / C# / ASP.NET Core / REST API / SQL
 (https://github.com/ellgenta/FloraBack)
 (https://github.com/ellgenta/FloraFront)
 
-## 🌐 Links
+
+##  Links
 
 - [Telegram](https://t.me/fruktovii_frukt)  
 
-## 📝 License
+##  License
 
 Content in this repository is licensed under the [MIT License](LICENSE), unless otherwise stated.
